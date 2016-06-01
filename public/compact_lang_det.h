@@ -64,8 +64,8 @@
 
 #include <stdint.h>
 #include <vector>
-#include "../internal/integral_types.h"   // For uint8 etc.
-#include "../internal/lang_script.h"      // For Language
+#include "cld2/integral_types.h"   // For uint8 etc.
+#include "cld2/lang_script.h"      // For Language
 
 namespace CLD2 {
 
