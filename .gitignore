@@ -1,0 +1,14 @@
+cld2.pc
+internal/cld2_data.bin
+internal/cld2_dynamic_data_tool
+internal/cld2_dynamic_unittest
+internal/cld2_unittest_avoid_chrome_2
+internal/cld2_unittest_chrome_2
+internal/cld2_unittest_full
+internal/cld2_unittest_full_avoid
+internal/compact_lang_det_dynamic_test_chrome
+internal/compact_lang_det_test_chrome_16
+internal/compact_lang_det_test_chrome_2
+internal/compact_lang_det_test_full
+internal/internal
+*.so
